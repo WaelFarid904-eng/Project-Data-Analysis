@@ -8,6 +8,7 @@ A collection of my data / development projects, each in its own folder.
 |---|---|
 | [`data-analysis-sales/`](./data-analysis-sales) | Exploratory data analysis of Electronics & Furniture sales data (2020). |
 | [`data-analysis-bike-sales/`](./data-analysis-bike-sales) | Exploratory data analysis of global bike sales data (2011–2016). |
+| [`legal-cases-dashboard-lexeuropa/`](./legal-cases-dashboard-lexeuropa) | Power BI dashboard for legal case & lawyer performance tracking. |
 
 > More projects will be added here over time — each one lives in its own
 > top-level folder with its own `README.md`.
