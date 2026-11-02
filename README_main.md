@@ -1,6 +1,6 @@
 # My Projects
 
-A collection of my data / development projects, each in its own folder.
+A collection of my data analysis projects, each in its own folder with its own `README.md`.
 
 ## Projects
 
@@ -12,12 +12,10 @@ A collection of my data / development projects, each in its own folder.
 | [`al-nakheel-sales-sql-python/`](./al-nakheel-sales-sql-python) | Messy retail sales data cleaned with SQL (ELT into SQL Server) then analyzed with Python. |
 | [`covid19-global-dashboard/`](./covid19-global-dashboard) | Power BI dashboard tracking global COVID-19 cases, tests, recoveries, and deaths. |
 | [`olist-ecommerce-analysis/`](./olist-ecommerce-analysis) | Full Olist e-commerce analysis: SQL business queries + Python EDA + Power BI dashboard. |
-
-> More projects will be added here over time — each one lives in its own
-> top-level folder with its own `README.md`.
+| [`cafe-sales-sql-cleaning/`](./cafe-sales-sql-cleaning) | Cleaning a deliberately corrupted cafe sales dataset (10,000 rows) in SQLite, then analysis with CTEs and window functions. |
 
 ## Adding a New Project
 
 1. Create a new folder at the root of this repo, e.g. `my-new-project/`.
-2. Add your own `README.md` inside it describing the project.
+2. Add its own `README.md` inside describing the project.
 3. Add a row for it in the table above.
